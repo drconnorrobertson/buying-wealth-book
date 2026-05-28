@@ -306,5 +306,45 @@
   </footer>
 
   <script src="/js/main.js"></script>
+<!-- cross-network-section -->
+<style>
+.network-crosslinks { background: #f7f8fc; padding: 56px 0; }
+.network-crosslinks .container { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+.network-crosslinks .eyebrow { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 3px; color: #6c63ff; font-weight: 700; margin-bottom: 8px; display: block; }
+.network-crosslinks h2 { font-size: 1.6rem; color: #1a1a2e; font-weight: 800; margin-bottom: 32px; }
+.network-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+@media (max-width: 768px) { .network-grid { grid-template-columns: 1fr; } }
+.network-card { background: #fff; border: 1px solid #e8e8f0; border-radius: 12px; padding: 24px; transition: box-shadow 0.2s, transform 0.2s; }
+.network-card:hover { box-shadow: 0 8px 24px rgba(0,0,0,0.08); transform: translateY(-3px); }
+.network-card .source-tag { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 2px; color: #6c63ff; font-weight: 700; margin-bottom: 10px; display: block; }
+.network-card h3 { font-size: 0.97rem; color: #1a1a2e; line-height: 1.45; margin-bottom: 10px; font-weight: 600; }
+.network-card h3 a { color: #1a1a2e; text-decoration: none; }
+.network-card h3 a:hover { color: #6c63ff; }
+.network-card p { font-size: 0.84rem; color: #666; line-height: 1.6; }
+</style>
+<section class="network-crosslinks" id="network-section">
+  <div class="container">
+    <span class="eyebrow">Around the Network</span>
+    <h2>From Dr. Connor Robertson&#39;s Network</h2>
+    <div class="network-grid">
+    <div class="network-card">
+      <span class="source-tag">PadSplit Playbook</span>
+      <h3><a href="https://www.padsplitplaybook.com/blog/scaling-padsplit-portfolio/" target="_blank" rel="noopener">Scaling Your PadSplit Portfolio: From One Property to Five and Beyond</a></h3>
+      <p>How to grow from a single shared housing property to a multi-unit portfolio — the systems, financing, and operator mindset shifts that make scaling actually work.</p>
+    </div>
+    <div class="network-card">
+      <span class="source-tag">Buy the Building</span>
+      <h3><a href="https://www.buythebuildingbook.com/blog/building-equity-while-you-work/" target="_blank" rel="noopener">Building Equity While You Work: How Owner-Occupied Real Estate Creates Wealth on Autopilot</a></h3>
+      <p>Every mortgage payment on your commercial building converts an expense into equity. Learn how owner-occupied real estate builds wealth automatically while you run your business.</p>
+    </div>
+    <div class="network-card">
+      <span class="source-tag">The 7-Minute Phone Call</span>
+      <h3><a href="https://www.7minutephonecallbook.com/blog/posts/the-art-of-the-follow-up-call/" target="_blank" rel="noopener">The Art of the Follow-Up Call</a></h3>
+      <p>Stop checking in and start closing. How to structure follow-up calls that move deals forward instead of annoying your prospects.</p>
+    </div>
+    </div>
+  </div>
+</section>
+<!-- /cross-network-section -->
 </body>
 </html>
