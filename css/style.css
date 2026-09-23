@@ -597,3 +597,8 @@ a:hover { color: var(--gold); }
 .book-depth__essay { max-width:920px; margin:26px 0 34px; columns:2; column-gap:34px; }
 .book-depth__essay p { margin:0 0 18px; break-inside:avoid; line-height:1.78; }
 @media(max-width:760px){.book-depth__essay{columns:1}}
+/* Visual accessibility polish */
+h1,h2,h3{text-wrap:balance}
+::selection{background:rgba(212,168,67,.25);color:var(--charcoal)}
+:where(a,button,input,select,textarea,summary):focus-visible{outline:3px solid var(--gold);outline-offset:3px;border-radius:4px}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
