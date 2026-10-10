@@ -387,6 +387,10 @@
     "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1100&q=70": {
       "width": 1100,
       "height": 733
+    },
+    "https://www.drconnorrobertson.com/images/dr-connor-robertson-headshot.jpg": {
+      "width": 1024,
+      "height": 1024
     }
   },
   "eagerHomepageSource": "https://raw.githubusercontent.com/drconnorrobertson/dr-connor-robertson-static/main/images/connor-book.jpg"
