@@ -38,6 +38,6 @@
       ]
     }
   ],
-  "buildCommand": "node scripts/optimize-media.mjs .",
+  "buildCommand": "node scripts/optimize-media.mjs . && node scripts/buyer-intent-release.cjs .",
   "outputDirectory": "."
 }
