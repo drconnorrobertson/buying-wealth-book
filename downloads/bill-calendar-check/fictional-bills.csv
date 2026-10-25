@@ -1,0 +1,6 @@
+bill_id,bill,due_date,amount,currency,amount_status,source_id
+B1,Fictional bill one,2026-11-01,0.10,USD,actual,S1
+B2,Fictional bill two,2026-11-03,0.20,USD,actual,S2
+B3,Fictional provisional bill,2026-11-04,21.90,USD,estimate,S3
+B4,Fictional CAD bill,2026-11-05,4,CAD,actual,S4
+B5,Fictional quarterly bill,2026-12-01,100,USD,actual,S5

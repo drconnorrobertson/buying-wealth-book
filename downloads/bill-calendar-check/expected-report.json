@@ -1,0 +1,30 @@
+{
+  "month": "2026-11",
+  "records": 5,
+  "totals_withheld": false,
+  "totals": [
+    {
+      "currency": "CAD",
+      "amount_status": "actual",
+      "amount": "4.00"
+    },
+    {
+      "currency": "USD",
+      "amount_status": "actual",
+      "amount": "0.30"
+    },
+    {
+      "currency": "USD",
+      "amount_status": "estimate",
+      "amount": "21.90"
+    }
+  ],
+  "outside_month": [
+    {
+      "bill_id": "B5",
+      "due_date": "2026-12-01"
+    }
+  ],
+  "issues": [],
+  "coverage_proven": false
+}
