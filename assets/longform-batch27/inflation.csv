@@ -1,0 +1,4 @@
+fictional_scenario,base_amount,base_index,later_index,later_nominal,later_in_base_dollars
+Unchanged,1000,100,125,1000,800
+Fifteen_percent,1000,100,125,1150,920
+Fifty_percent,1000,100,125,1500,1200
