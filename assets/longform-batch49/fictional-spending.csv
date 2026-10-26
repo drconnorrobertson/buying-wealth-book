@@ -1,0 +1,5 @@
+category,comparison_type,planned_quantity,planned_price,actual_quantity,actual_price,planned_amount,actual_amount
+meal_packs,quantity,10,8,12,9,80,108
+transit_trips,quantity,20,3,16,3,60,48
+membership,fixed,,,,,40,40
+household_items,amount_only,,,,,70,54
