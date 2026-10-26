@@ -1,0 +1,22 @@
+{
+  "planned_total": 250,
+  "actual_total": 250,
+  "total_difference": 0,
+  "row_differences": [
+    28,
+    -12,
+    0,
+    -16
+  ],
+  "pack_intermediate": 96,
+  "pack_quantity_component": 16,
+  "pack_price_component": 12,
+  "transit_quantity_component": -12,
+  "transit_price_component": 0,
+  "quantity_rows_planned": 140,
+  "quantity_rows_intermediate": 144,
+  "quantity_rows_actual": 156,
+  "partial_intermediate_total": 254,
+  "remaining_difference": -4,
+  "amount_only_unallocated": -16
+}
