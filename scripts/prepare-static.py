@@ -33,11 +33,12 @@ for p in OUT.rglob('*.html'):
   n=visit(d)
   return m[1]+json.dumps(n,separators=(',',':'))+m[3] if n!=d else m[0]
  n=re.sub(r'(<script[^>]*type=["\']application/ld\+json["\'][^>]*>)(.*?)(</script>)',rewrite_json,n,flags=re.S)
+ for old_label,new_label in {'Deal Sourcing: Field Guide': 'Deal Sourcing: Source Evaluation Questions', 'Deal Sourcing: Due-Diligence Checklist': 'Deal Sourcing: Source Evaluation Questions', 'Deal Sourcing: Common Mistakes': 'Deal Sourcing: Source Evaluation Questions', 'Deal Sourcing: Worked Example': 'Deal Sourcing: Fictional Lead Handoffs', 'Deal Sourcing: Decision Scorecard': 'Deal Sourcing: Review Defined Stages', 'Deal Sourcing: Red Flags': 'Deal Sourcing: Service Scope and Fees', 'Deal Sourcing: Implementation Plan': 'Deal Sourcing: Lead Register', 'Deal Sourcing: Advanced Considerations': 'Deal Sourcing: Review Defined Stages', 'Deal Sourcing: Practical FAQ': 'Deal Sourcing: Source Evaluation Questions'}.items():n=n.replace(old_label,new_label)
  n=n.replace('Browse all 100 guides','Browse the learning library')
  if n!=s:p.write_text(n);changed.append(str(p.relative_to(OUT)))
 platform=json.loads((ROOT/'vercel.json').read_text());assert platform['cleanUrls'] is False
 rewrites={x['source']:x['destination'] for x in platform['rewrites']};owners=[x.text for x in ET.parse(OUT/'sitemap.xml').iter() if x.tag.endswith('loc')]
-assert len(owners)==316
+assert len(owners)==307
 for u in owners:
  route=urlsplit(u).path;physical=rewrites[route];assert '..' not in physical and (OUT/physical.lstrip('/')).is_file()
  assert re.search(r'<link\b[^>]*rel="canonical"[^>]*href="'+re.escape(u)+'"', (OUT/physical.lstrip('/')).read_text())

@@ -9,6 +9,19 @@
     "/blog/target-criteria-scorecard/": "/blog/target-criteria-faq/#criteria",
     "/blog/target-criteria-red-flags/": "/blog/target-criteria-faq/#mistakes",
     "/blog/target-criteria-implementation/": "/blog/target-criteria-faq/#implementation",
-    "/blog/target-criteria-advanced/": "/blog/target-criteria-faq/#limits"
-  }
+    "/blog/target-criteria-advanced/": "/blog/target-criteria-faq/#limits",
+    "/blog/deal-sourcing-field-guide/": "/blog/deal-sourcing-questions/#questions",
+    "/blog/deal-sourcing-checklist/": "/blog/deal-sourcing-questions/#questions",
+    "/blog/deal-sourcing-mistakes/": "/blog/deal-sourcing-questions/#questions",
+    "/blog/deal-sourcing-examples/": "/blog/deal-sourcing-questions/#examples",
+    "/blog/deal-sourcing-scorecard/": "/blog/deal-sourcing-questions/#review",
+    "/blog/deal-sourcing-red-flags/": "/blog/deal-sourcing-questions/#fees",
+    "/blog/deal-sourcing-implementation/": "/blog/deal-sourcing-questions/#register",
+    "/blog/deal-sourcing-advanced/": "/blog/deal-sourcing-questions/#review",
+    "/blog/deal-sourcing-faq/": "/blog/deal-sourcing-questions/#questions"
+  },
+  "retainedOwners": [
+    "/blog/target-criteria-faq/",
+    "/blog/deal-sourcing-questions/"
+  ]
 }

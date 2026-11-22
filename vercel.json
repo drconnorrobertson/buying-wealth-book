@@ -273,44 +273,8 @@
       "destination": "/blog/deal-negotiation-scorecard/index.html"
     },
     {
-      "source": "/blog/deal-sourcing-advanced/",
-      "destination": "/blog/deal-sourcing-advanced/index.html"
-    },
-    {
-      "source": "/blog/deal-sourcing-checklist/",
-      "destination": "/blog/deal-sourcing-checklist/index.html"
-    },
-    {
-      "source": "/blog/deal-sourcing-examples/",
-      "destination": "/blog/deal-sourcing-examples/index.html"
-    },
-    {
-      "source": "/blog/deal-sourcing-faq/",
-      "destination": "/blog/deal-sourcing-faq/index.html"
-    },
-    {
-      "source": "/blog/deal-sourcing-field-guide/",
-      "destination": "/blog/deal-sourcing-field-guide/index.html"
-    },
-    {
-      "source": "/blog/deal-sourcing-implementation/",
-      "destination": "/blog/deal-sourcing-implementation/index.html"
-    },
-    {
-      "source": "/blog/deal-sourcing-mistakes/",
-      "destination": "/blog/deal-sourcing-mistakes/index.html"
-    },
-    {
       "source": "/blog/deal-sourcing-questions/",
       "destination": "/blog/deal-sourcing-questions/index.html"
-    },
-    {
-      "source": "/blog/deal-sourcing-red-flags/",
-      "destination": "/blog/deal-sourcing-red-flags/index.html"
-    },
-    {
-      "source": "/blog/deal-sourcing-scorecard/",
-      "destination": "/blog/deal-sourcing-scorecard/index.html"
     },
     {
       "source": "/blog/deal-structures-earnouts-equity-rollovers-creative-financing/",
@@ -1307,12 +1271,12 @@
   ],
   "redirects": [
     {
-      "source": "/blog/target-criteria-field-guide",
+      "source": "/blog/target-criteria-field-guide/",
       "destination": "/blog/target-criteria-faq/#criteria",
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-field-guide/",
+      "source": "/blog/target-criteria-field-guide",
       "destination": "/blog/target-criteria-faq/#criteria",
       "permanent": true
     },
@@ -1322,12 +1286,12 @@
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-checklist",
+      "source": "/blog/target-criteria-checklist/",
       "destination": "/blog/target-criteria-faq/#evidence",
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-checklist/",
+      "source": "/blog/target-criteria-checklist",
       "destination": "/blog/target-criteria-faq/#evidence",
       "permanent": true
     },
@@ -1337,12 +1301,12 @@
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-mistakes",
+      "source": "/blog/target-criteria-mistakes/",
       "destination": "/blog/target-criteria-faq/#mistakes",
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-mistakes/",
+      "source": "/blog/target-criteria-mistakes",
       "destination": "/blog/target-criteria-faq/#mistakes",
       "permanent": true
     },
@@ -1352,12 +1316,12 @@
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-questions",
+      "source": "/blog/target-criteria-questions/",
       "destination": "/blog/target-criteria-faq/#questions",
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-questions/",
+      "source": "/blog/target-criteria-questions",
       "destination": "/blog/target-criteria-faq/#questions",
       "permanent": true
     },
@@ -1367,12 +1331,12 @@
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-examples",
+      "source": "/blog/target-criteria-examples/",
       "destination": "/blog/target-criteria-faq/#examples",
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-examples/",
+      "source": "/blog/target-criteria-examples",
       "destination": "/blog/target-criteria-faq/#examples",
       "permanent": true
     },
@@ -1382,12 +1346,12 @@
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-scorecard",
+      "source": "/blog/target-criteria-scorecard/",
       "destination": "/blog/target-criteria-faq/#criteria",
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-scorecard/",
+      "source": "/blog/target-criteria-scorecard",
       "destination": "/blog/target-criteria-faq/#criteria",
       "permanent": true
     },
@@ -1397,12 +1361,12 @@
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-red-flags",
+      "source": "/blog/target-criteria-red-flags/",
       "destination": "/blog/target-criteria-faq/#mistakes",
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-red-flags/",
+      "source": "/blog/target-criteria-red-flags",
       "destination": "/blog/target-criteria-faq/#mistakes",
       "permanent": true
     },
@@ -1412,12 +1376,12 @@
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-implementation",
+      "source": "/blog/target-criteria-implementation/",
       "destination": "/blog/target-criteria-faq/#implementation",
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-implementation/",
+      "source": "/blog/target-criteria-implementation",
       "destination": "/blog/target-criteria-faq/#implementation",
       "permanent": true
     },
@@ -1427,12 +1391,12 @@
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-advanced",
+      "source": "/blog/target-criteria-advanced/",
       "destination": "/blog/target-criteria-faq/#limits",
       "permanent": true
     },
     {
-      "source": "/blog/target-criteria-advanced/",
+      "source": "/blog/target-criteria-advanced",
       "destination": "/blog/target-criteria-faq/#limits",
       "permanent": true
     },
@@ -1442,8 +1406,138 @@
       "permanent": true
     },
     {
-      "source": "/index.html",
-      "destination": "/",
+      "source": "/blog/deal-sourcing-field-guide/",
+      "destination": "/blog/deal-sourcing-questions/#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-field-guide",
+      "destination": "/blog/deal-sourcing-questions/#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-field-guide/index.html",
+      "destination": "/blog/deal-sourcing-questions/#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-checklist/",
+      "destination": "/blog/deal-sourcing-questions/#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-checklist",
+      "destination": "/blog/deal-sourcing-questions/#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-checklist/index.html",
+      "destination": "/blog/deal-sourcing-questions/#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-mistakes/",
+      "destination": "/blog/deal-sourcing-questions/#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-mistakes",
+      "destination": "/blog/deal-sourcing-questions/#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-mistakes/index.html",
+      "destination": "/blog/deal-sourcing-questions/#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-examples/",
+      "destination": "/blog/deal-sourcing-questions/#examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-examples",
+      "destination": "/blog/deal-sourcing-questions/#examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-examples/index.html",
+      "destination": "/blog/deal-sourcing-questions/#examples",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-scorecard/",
+      "destination": "/blog/deal-sourcing-questions/#review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-scorecard",
+      "destination": "/blog/deal-sourcing-questions/#review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-scorecard/index.html",
+      "destination": "/blog/deal-sourcing-questions/#review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-red-flags/",
+      "destination": "/blog/deal-sourcing-questions/#fees",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-red-flags",
+      "destination": "/blog/deal-sourcing-questions/#fees",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-red-flags/index.html",
+      "destination": "/blog/deal-sourcing-questions/#fees",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-implementation/",
+      "destination": "/blog/deal-sourcing-questions/#register",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-implementation",
+      "destination": "/blog/deal-sourcing-questions/#register",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-implementation/index.html",
+      "destination": "/blog/deal-sourcing-questions/#register",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-advanced/",
+      "destination": "/blog/deal-sourcing-questions/#review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-advanced",
+      "destination": "/blog/deal-sourcing-questions/#review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-advanced/index.html",
+      "destination": "/blog/deal-sourcing-questions/#review",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-faq/",
+      "destination": "/blog/deal-sourcing-questions/#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-faq",
+      "destination": "/blog/deal-sourcing-questions/#questions",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deal-sourcing-faq/index.html",
+      "destination": "/blog/deal-sourcing-questions/#questions",
       "permanent": true
     },
     {
@@ -2017,76 +2111,6 @@
       "permanent": true
     },
     {
-      "source": "/blog/deal-sourcing-advanced/index.html",
-      "destination": "/blog/deal-sourcing-advanced/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-advanced",
-      "destination": "/blog/deal-sourcing-advanced/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-checklist/index.html",
-      "destination": "/blog/deal-sourcing-checklist/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-checklist",
-      "destination": "/blog/deal-sourcing-checklist/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-examples/index.html",
-      "destination": "/blog/deal-sourcing-examples/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-examples",
-      "destination": "/blog/deal-sourcing-examples/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-faq/index.html",
-      "destination": "/blog/deal-sourcing-faq/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-faq",
-      "destination": "/blog/deal-sourcing-faq/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-field-guide/index.html",
-      "destination": "/blog/deal-sourcing-field-guide/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-field-guide",
-      "destination": "/blog/deal-sourcing-field-guide/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-implementation/index.html",
-      "destination": "/blog/deal-sourcing-implementation/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-implementation",
-      "destination": "/blog/deal-sourcing-implementation/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-mistakes/index.html",
-      "destination": "/blog/deal-sourcing-mistakes/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-mistakes",
-      "destination": "/blog/deal-sourcing-mistakes/",
-      "permanent": true
-    },
-    {
       "source": "/blog/deal-sourcing-questions/index.html",
       "destination": "/blog/deal-sourcing-questions/",
       "permanent": true
@@ -2094,26 +2118,6 @@
     {
       "source": "/blog/deal-sourcing-questions",
       "destination": "/blog/deal-sourcing-questions/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-red-flags/index.html",
-      "destination": "/blog/deal-sourcing-red-flags/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-red-flags",
-      "destination": "/blog/deal-sourcing-red-flags/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-scorecard/index.html",
-      "destination": "/blog/deal-sourcing-scorecard/",
-      "permanent": true
-    },
-    {
-      "source": "/blog/deal-sourcing-scorecard",
-      "destination": "/blog/deal-sourcing-scorecard/",
       "permanent": true
     },
     {
@@ -4594,6 +4598,11 @@
     {
       "source": "/resources/compare-planned-and-actual-spending",
       "destination": "/resources/compare-planned-and-actual-spending/",
+      "permanent": true
+    },
+    {
+      "source": "/index.html",
+      "destination": "/",
       "permanent": true
     }
   ]
