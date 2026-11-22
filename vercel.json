@@ -37,7 +37,7 @@
       ]
     }
   ],
-  "buildCommand": "python3 scripts/prepare-static.py && node scripts/optimize-media.mjs dist && node scripts/buyer-intent-release.cjs dist && python3 scripts/verify-indexing.py dist",
+  "buildCommand": "python3 scripts/prepare-static.py && node scripts/optimize-media.mjs dist && node scripts/buyer-intent-release.cjs dist && python3 scripts/verify-indexing.py dist && python3 scripts/clean-known-faq-template.py dist",
   "outputDirectory": "dist",
   "rewrites": [
     {
