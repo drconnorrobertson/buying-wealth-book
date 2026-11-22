@@ -1,0 +1,12 @@
+fictional_line,amount_USD,scope_note
+reported_net_income,110000,fictional reported annual net income
+interest_expense,10000,included in net income
+income_tax_expense,20000,included entity income-tax expense
+depreciation,25000,included in net income
+amortization,5000,included in net income
+illustrative_EBITDA,170000,sum of the five preceding amounts
+recorded_owner_compensation_and_benefits,180000,included historical total cost;added once
+illustrative_owner_benefit,350000,170000+180000
+assumed_replacement_management_total_cost,-190000,fictional supported-plan assumption for illustration
+illustrative_management_adjusted_earnings,160000,350000-190000;not historical EBITDA or cash available
+separate_equipment_replacement_cash_outlay,60000,not an earnings add-back;cash timing requires separate analysis
