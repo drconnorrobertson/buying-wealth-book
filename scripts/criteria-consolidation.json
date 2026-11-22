@@ -1,0 +1,14 @@
+{
+  "owner": "/blog/target-criteria-faq/",
+  "redirects": {
+    "/blog/target-criteria-field-guide/": "/blog/target-criteria-faq/#criteria",
+    "/blog/target-criteria-checklist/": "/blog/target-criteria-faq/#evidence",
+    "/blog/target-criteria-mistakes/": "/blog/target-criteria-faq/#mistakes",
+    "/blog/target-criteria-questions/": "/blog/target-criteria-faq/#questions",
+    "/blog/target-criteria-examples/": "/blog/target-criteria-faq/#examples",
+    "/blog/target-criteria-scorecard/": "/blog/target-criteria-faq/#criteria",
+    "/blog/target-criteria-red-flags/": "/blog/target-criteria-faq/#mistakes",
+    "/blog/target-criteria-implementation/": "/blog/target-criteria-faq/#implementation",
+    "/blog/target-criteria-advanced/": "/blog/target-criteria-faq/#limits"
+  }
+}
