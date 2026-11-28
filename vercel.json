@@ -41,6 +41,26 @@
   "outputDirectory": "dist",
   "rewrites": [
     {
+      "source": "/blog/acquisition-screen-deal-size-total-cash/",
+      "destination": "/blog/acquisition-screen-deal-size-total-cash/index.html"
+    },
+    {
+      "source": "/blog/acquisition-screen-lease-renewal-window/",
+      "destination": "/blog/acquisition-screen-lease-renewal-window/index.html"
+    },
+    {
+      "source": "/blog/acquisition-screen-management-coverage/",
+      "destination": "/blog/acquisition-screen-management-coverage/index.html"
+    },
+    {
+      "source": "/blog/acquisition-screen-seasonal-cash-trough/",
+      "destination": "/blog/acquisition-screen-seasonal-cash-trough/index.html"
+    },
+    {
+      "source": "/blog/acquisition-screen-required-customer-consent/",
+      "destination": "/blog/acquisition-screen-required-customer-consent/index.html"
+    },
+    {
       "source": "/",
       "destination": "/index.html"
     },
@@ -1270,6 +1290,56 @@
     }
   ],
   "redirects": [
+    {
+      "source": "/blog/acquisition-screen-deal-size-total-cash",
+      "destination": "/blog/acquisition-screen-deal-size-total-cash/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/acquisition-screen-deal-size-total-cash/index.html",
+      "destination": "/blog/acquisition-screen-deal-size-total-cash/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/acquisition-screen-lease-renewal-window",
+      "destination": "/blog/acquisition-screen-lease-renewal-window/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/acquisition-screen-lease-renewal-window/index.html",
+      "destination": "/blog/acquisition-screen-lease-renewal-window/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/acquisition-screen-management-coverage",
+      "destination": "/blog/acquisition-screen-management-coverage/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/acquisition-screen-management-coverage/index.html",
+      "destination": "/blog/acquisition-screen-management-coverage/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/acquisition-screen-seasonal-cash-trough",
+      "destination": "/blog/acquisition-screen-seasonal-cash-trough/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/acquisition-screen-seasonal-cash-trough/index.html",
+      "destination": "/blog/acquisition-screen-seasonal-cash-trough/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/acquisition-screen-required-customer-consent",
+      "destination": "/blog/acquisition-screen-required-customer-consent/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/acquisition-screen-required-customer-consent/index.html",
+      "destination": "/blog/acquisition-screen-required-customer-consent/",
+      "permanent": true
+    },
     {
       "source": "/blog/target-criteria-field-guide/",
       "destination": "/blog/target-criteria-faq/#criteria",

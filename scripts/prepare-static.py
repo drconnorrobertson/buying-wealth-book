@@ -38,7 +38,7 @@ for p in OUT.rglob('*.html'):
  if n!=s:p.write_text(n);changed.append(str(p.relative_to(OUT)))
 platform=json.loads((ROOT/'vercel.json').read_text());assert platform['cleanUrls'] is False
 rewrites={x['source']:x['destination'] for x in platform['rewrites']};owners=[x.text for x in ET.parse(OUT/'sitemap.xml').iter() if x.tag.endswith('loc')]
-assert len(owners)==307
+assert len(owners)==312
 for u in owners:
  route=urlsplit(u).path;physical=rewrites[route];assert '..' not in physical and (OUT/physical.lstrip('/')).is_file()
  assert re.search(r'<link\b[^>]*rel="canonical"[^>]*href="'+re.escape(u)+'"', (OUT/physical.lstrip('/')).read_text())
